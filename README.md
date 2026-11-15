@@ -13,6 +13,10 @@ LCD1602 Module
 
 Jumper Wires
 
+220ohm Resistor
+
+10kOhm Potentiometer
+
 -Libraries-
 LiquidCrystal by Arduino, Adafruit
 
